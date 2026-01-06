@@ -1,3 +1,0 @@
-Evaluating output//gpt-3.5-turbo/green_ner_5-shots_knn.json...
-Removing examples where the number of spans and the number of predictions don't match: 4
-{'seqeval_precision': 0.2704626334519573, 'seqeval_recall': 0.2306525037936267, 'seqeval_f1': 0.24897624897624898, 'skillevel_precision': 0.7491103202846975, 'skillevel_recall': 0.6388467374810318, 'skillevel_f1': 0.6895986895986896}
