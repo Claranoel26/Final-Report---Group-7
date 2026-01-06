@@ -1,3 +1,0 @@
-Evaluating output//gpt-4o/green_extract_5-shots_knn.json...
-Removing examples where the number of spans and the number of predictions don't match: 0
-{'seqeval_precision': 0.36199095022624433, 'seqeval_recall': 0.23809523809523808, 'seqeval_f1': 0.2872531418312388, 'skillevel_precision': 0.8009049773755657, 'skillevel_recall': 0.5267857142857143, 'skillevel_f1': 0.635547576301616}
