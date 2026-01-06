@@ -11,7 +11,7 @@ sh run.sh
 ```
 
 ## Datasets
-Datasets used for experiments can be found [here](https://huggingface.co/jjzha). Additionally, you can download the processed annotation model by running the following command
+Datasets used for experiments can be found [here]https://huggingface.co/datasets/jjzha/green. Additionally, you can download the processed annotation model by running the following command
 ```python
 python main.py --knn --dataset_name $DATASET_NAME
 ```
