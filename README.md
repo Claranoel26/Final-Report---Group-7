@@ -1,4 +1,4 @@
-# Final-Report---Group-7
+# Final Report - Group 7
 
 # Revisiting Skill Extraction in the Job Market Domain using Large Language Models
 
